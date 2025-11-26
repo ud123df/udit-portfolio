@@ -1,6 +1,7 @@
 import React from "react";
 import { motion } from "framer-motion";
 import BadgerLogo from "./assets/Badger.png";
+<img src = {BadgeLogo} alt = "Honey Badger Logo" />
 
 export default function App() {
   const skills = [
